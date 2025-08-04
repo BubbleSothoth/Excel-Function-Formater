@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  ExcelFunctionFormater.cpp
+F:\project\ExcelFunctionFormater\ExcelFunctionFormater\ExcelFunctionFormater.cpp(104,17): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“/ExcelFunctionFormater.cpp”)
+  
+  ExcelFunctionFormater.vcxproj -> F:\project\ExcelFunctionFormater\x64\Debug\ExcelFunctionFormater.exe
